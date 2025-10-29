@@ -1,0 +1,6 @@
+# Init
+SUCCESS
+# 1. TORPEDO,SINGLE (Elsődleges)
+SUCCESS
+# 2. TORPEDO,SINGLE (Másodlagos üres, ezért Elsődleges)
+SUCCESS

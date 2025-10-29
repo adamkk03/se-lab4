@@ -1,0 +1,3 @@
+# SINGLE mód: Ha a soron következő (elsődleges) tároló üres...
+GT4500,0,0,10,0
+TORPEDO,SINGLE

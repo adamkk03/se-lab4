@@ -1,0 +1,3 @@
+# SINGLE mód: Ha a tüzelő (elsődleges) tároló hibát jelez...
+GT4500,10,1.0,10,0
+TORPEDO,SINGLE

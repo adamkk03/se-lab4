@@ -1,0 +1,3 @@
+# ALL mód: Sikertelen lövés, ha mindkét (töltött) tároló hibát jelez.
+GT4500,10,1.0,10,1.0
+TORPEDO,ALL
