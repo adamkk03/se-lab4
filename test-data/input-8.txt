@@ -1,3 +1,2 @@
-# ALL mód: Mindkét tároló megkísérel tüzelni...
-GT4500,10,0,10,0
+GT4500,10,0,0,0
 TORPEDO,ALL

@@ -1,4 +1,3 @@
-# Init
 SUCCESS
-# 1. TORPEDO,SINGLE (Elsődleges hibát jelez, leáll)
+SUCCESS
 FAIL
