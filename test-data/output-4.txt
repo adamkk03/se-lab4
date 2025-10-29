@@ -1,4 +1,2 @@
-# Init
 SUCCESS
-# 1. TORPEDO,SINGLE (Elsődleges üres, ezért Másodlagos)
-SUCCESS
+FAIL

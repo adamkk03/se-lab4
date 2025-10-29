@@ -1,4 +1,0 @@
-# Init
-SUCCESS
-# 1. TORPEDO,ALL
-FAIL
