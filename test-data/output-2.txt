@@ -1,0 +1,8 @@
+# Init
+SUCCESS
+# 1. TORPEDO,SINGLE (Elsődleges)
+SUCCESS
+# 2. TORPEDO,SINGLE (Másodlagos)
+FAIL
+# 3. TORPEDO,SINGLE (Elsődleges)
+SUCCESS

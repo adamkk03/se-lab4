@@ -1,0 +1,6 @@
+# Init
+SUCCESS
+# 1. TORPEDO,SINGLE (Elsődleges tüzel)
+SUCCESS
+# 2. TORPEDO,SINGLE (Másodlagos hibát jelez, leáll)
+FAIL
